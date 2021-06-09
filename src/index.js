@@ -10,7 +10,7 @@ console.log(checklist);
 
 ReactDOM.render(
 
- <App authorized={false} />
+ <App authorized={true} />
 
   ,
   document.getElementById('root')
