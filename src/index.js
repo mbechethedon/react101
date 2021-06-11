@@ -10,7 +10,7 @@ console.log(checklist);
 
 ReactDOM.render(
 
- <App authorized={true} />
+ <App login={"mbechethedon"} />
 
   ,
   document.getElementById('root')
